@@ -1,1 +1,0 @@
-This is a blog entry for 2013/01/01.
